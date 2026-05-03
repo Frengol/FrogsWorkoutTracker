@@ -1,0 +1,18 @@
+appId: com.frogworkouttracker.app
+---
+- clearState
+- launchApp
+- tapOn:
+    id: btn-onboarding-enter
+- assertVisible:
+    id: screen-home
+- tapOn: Progresso
+- assertVisible:
+    id: screen-progress
+- tapOn: Relatório mensal
+- assertVisible:
+    id: screen-report-monthly
+- back
+- tapOn: Retrospectiva anual
+- assertVisible:
+    id: screen-report-yearly

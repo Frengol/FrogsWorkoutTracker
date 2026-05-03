@@ -1,0 +1,47 @@
+[
+  {
+    "folderName": "Blocos iniciais",
+    "colorToken": "blue",
+    "name": "Superior foco A",
+    "description": "Peito, costas e ombros com progressão simples.",
+    "estimatedMinutes": 45,
+    "source": "library",
+    "exercises": [
+      { "exerciseSlug": "bench-press", "targetSets": 4, "targetRepsLabel": "6-8", "restSeconds": 120, "note": "Desça com controle e segure por um instante.", "warmupEnabled": true },
+      { "exerciseSlug": "barbell-row", "targetSets": 4, "targetRepsLabel": "8-10", "restSeconds": 120 },
+      { "exerciseSlug": "dumbbell-shoulder-press", "targetSets": 3, "targetRepsLabel": "8-10", "restSeconds": 90 },
+      { "exerciseSlug": "lat-pulldown", "targetSets": 3, "targetRepsLabel": "10-12", "restSeconds": 90 },
+      { "exerciseSlug": "cable-pushdown", "targetSets": 3, "targetRepsLabel": "10-12", "restSeconds": 75 }
+    ]
+  },
+  {
+    "folderName": "Blocos iniciais",
+    "colorToken": "blue",
+    "name": "Inferior força B",
+    "description": "Base forte para quadríceps, posterior e glúteos.",
+    "estimatedMinutes": 45,
+    "source": "library",
+    "exercises": [
+      { "exerciseSlug": "back-squat", "targetSets": 4, "targetRepsLabel": "5-6", "restSeconds": 150, "warmupEnabled": true },
+      { "exerciseSlug": "romanian-deadlift", "targetSets": 4, "targetRepsLabel": "6-8", "restSeconds": 120 },
+      { "exerciseSlug": "leg-press", "targetSets": 3, "targetRepsLabel": "10-12", "restSeconds": 90 },
+      { "exerciseSlug": "hip-thrust", "targetSets": 3, "targetRepsLabel": "8-10", "restSeconds": 90 },
+      { "exerciseSlug": "standing-calf-raise", "targetSets": 4, "targetRepsLabel": "12-15", "restSeconds": 60 }
+    ]
+  },
+  {
+    "folderName": "Blocos iniciais",
+    "colorToken": "blue",
+    "name": "Corpo todo rápido",
+    "description": "Sessão enxuta para dias corridos.",
+    "estimatedMinutes": 30,
+    "source": "library",
+    "exercises": [
+      { "exerciseSlug": "goblet-squat", "targetSets": 3, "targetRepsLabel": "10-12", "restSeconds": 75, "warmupEnabled": true },
+      { "exerciseSlug": "pull-up", "targetSets": 3, "targetRepsLabel": "6-10", "restSeconds": 90 },
+      { "exerciseSlug": "dumbbell-bench-press", "targetSets": 3, "targetRepsLabel": "8-10", "restSeconds": 90 },
+      { "exerciseSlug": "kettlebell-swing", "targetSets": 3, "targetRepsLabel": "15-20", "restSeconds": 60 },
+      { "exerciseSlug": "plank", "targetSets": 3, "targetRepsLabel": "45s", "restSeconds": 45 }
+    ]
+  }
+]

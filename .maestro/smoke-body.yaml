@@ -1,0 +1,18 @@
+appId: com.frogworkouttracker.app
+---
+- clearState
+- launchApp
+- tapOn:
+    id: btn-onboarding-enter
+- assertVisible:
+    id: screen-home
+- tapOn:
+    id: btn-home-quick-weight
+- assertVisible:
+    id: screen-progress
+- tapOn:
+    id: input-progress-quick-weight
+- inputText: 82.5
+- tapOn:
+    id: btn-progress-save-weight
+- assertVisible: Peso corporal salvo localmente.

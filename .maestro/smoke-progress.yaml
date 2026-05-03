@@ -1,0 +1,26 @@
+appId: com.frogworkouttracker.app
+---
+- clearState
+- launchApp
+- tapOn:
+    id: btn-onboarding-enter
+- assertVisible:
+    id: screen-home
+- tapOn: Progresso
+- assertVisible:
+    id: screen-progress
+- tapOn:
+    id: btn-progress-view-exercises
+- assertVisible: Sem dados por exercício ainda
+- tapOn:
+    id: btn-progress-view-muscles
+- assertVisible: Distribuição muscular
+- tapOn:
+    id: btn-progress-view-body
+- tapOn:
+    id: input-progress-quick-weight
+- inputText: 82.5
+- tapOn:
+    id: btn-progress-save-weight
+- assertVisible: Peso corporal salvo localmente.
+

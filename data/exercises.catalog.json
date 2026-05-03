@@ -1,0 +1,1292 @@
+[
+  {
+    "slug": "bench-press",
+    "name": "Supino reto",
+    "aliases": ["Bench Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "incline-bench-press",
+    "name": "Supino inclinado",
+    "aliases": ["Incline Bench Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "name": "Supino fechado",
+    "aliases": ["Close-Grip Bench Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "paused-bench-press",
+    "name": "Supino com pausa",
+    "aliases": ["Paused Bench Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "spoto-press",
+    "name": "Supino Spoto",
+    "aliases": ["Spoto Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "floor-press",
+    "name": "Supino no chão",
+    "aliases": ["Floor Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, mantenha as escápulas firmes e registre a melhor série com consistência."
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "name": "Supino com halteres",
+    "aliases": ["Dumbbell Bench Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "incline-dumbbell-press",
+    "name": "Supino inclinado com halteres",
+    "aliases": ["Incline Dumbbell Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "neutral-grip-dumbbell-press",
+    "name": "Supino com halteres pegada neutra",
+    "aliases": ["Neutral Grip Dumbbell Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "dumbbell-fly",
+    "name": "Crucifixo com halteres",
+    "aliases": ["Dumbbell Fly"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "incline-dumbbell-fly",
+    "name": "Crucifixo inclinado com halteres",
+    "aliases": ["Incline Dumbbell Fly"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "hex-press",
+    "name": "Supino hexagonal",
+    "aliases": ["Hex Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha a amplitude controlada, ombros estáveis e cadência consistente."
+  },
+  {
+    "slug": "chest-press-machine",
+    "name": "Supino na máquina",
+    "aliases": ["Chest Press Machine"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste o banco, mantenha os ombros encaixados e finalize as repetições com controle."
+  },
+  {
+    "slug": "pec-deck-fly",
+    "name": "Voador",
+    "aliases": ["Pec Deck Fly"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste o banco, mantenha os ombros encaixados e finalize as repetições com controle."
+  },
+  {
+    "slug": "seated-chest-press",
+    "name": "Supino sentado na máquina",
+    "aliases": ["Seated Chest Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste o banco, mantenha os ombros encaixados e finalize as repetições com controle."
+  },
+  {
+    "slug": "hammer-strength-press",
+    "name": "Supino Hammer Strength",
+    "aliases": ["Hammer Strength Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste o banco, mantenha os ombros encaixados e finalize as repetições com controle."
+  },
+  {
+    "slug": "plate-loaded-chest-press",
+    "name": "Supino articulado com anilhas",
+    "aliases": ["Plate Loaded Chest Press"],
+    "muscleGroup": "chest",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste o banco, mantenha os ombros encaixados e finalize as repetições com controle."
+  },
+  {
+    "slug": "barbell-row",
+    "name": "Remada curvada",
+    "aliases": ["Barbell Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "pendlay-row",
+    "name": "Remada Pendlay",
+    "aliases": ["Pendlay Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "deadlift",
+    "name": "Levantamento terra",
+    "aliases": ["Deadlift"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "romanian-deadlift",
+    "name": "Terra romeno",
+    "aliases": ["Romanian Deadlift"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "snatch-grip-deadlift",
+    "name": "Terra com pegada aberta",
+    "aliases": ["Snatch Grip Deadlift"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "rack-pull",
+    "name": "Rack pull",
+    "aliases": ["Rack Pull"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, puxe até a linha do abdômen e evite perder a postura."
+  },
+  {
+    "slug": "lat-pulldown",
+    "name": "Puxada alta",
+    "aliases": ["Lat Pulldown"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "seated-cable-row",
+    "name": "Remada baixa na polia",
+    "aliases": ["Seated Cable Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "straight-arm-pulldown",
+    "name": "Puxada com braços retos",
+    "aliases": ["Straight Arm Pulldown"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "single-arm-cable-row",
+    "name": "Remada unilateral na polia",
+    "aliases": ["Single Arm Cable Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "cable-pullover",
+    "name": "Pullover na polia",
+    "aliases": ["Cable Pullover"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "high-row",
+    "name": "Remada alta",
+    "aliases": ["High Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Baixe a barra com controle, estabilize o tronco e finalize cada repetição sem balanço."
+  },
+  {
+    "slug": "pull-up",
+    "name": "Barra fixa pronada",
+    "aliases": ["Pull-Up"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Mantenha o corpo firme, suba com controle e evite balançar durante a série."
+  },
+  {
+    "slug": "chin-up",
+    "name": "Barra fixa supinada",
+    "aliases": ["Chin-Up"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Mantenha o corpo firme, suba com controle e evite balançar durante a série."
+  },
+  {
+    "slug": "inverted-row",
+    "name": "Remada invertida",
+    "aliases": ["Inverted Row"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Mantenha o corpo firme, suba com controle e evite balançar durante a série."
+  },
+  {
+    "slug": "commando-pull-up",
+    "name": "Barra fixa comando",
+    "aliases": ["Commando Pull-Up"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Mantenha o corpo firme, suba com controle e evite balançar durante a série."
+  },
+  {
+    "slug": "scap-pull-up",
+    "name": "Barra fixa escapular",
+    "aliases": ["Scap Pull-Up"],
+    "muscleGroup": "back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Mantenha o corpo firme, suba com controle e evite balançar durante a série."
+  },
+  {
+    "slug": "dumbbell-shoulder-press",
+    "name": "Desenvolvimento com halteres",
+    "aliases": ["Dumbbell Shoulder Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "arnold-press",
+    "name": "Desenvolvimento Arnold",
+    "aliases": ["Arnold Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "dumbbell-lateral-raise",
+    "name": "Elevação lateral com halteres",
+    "aliases": ["Dumbbell Lateral Raise"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "dumbbell-front-raise",
+    "name": "Elevação frontal com halteres",
+    "aliases": ["Dumbbell Front Raise"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "rear-delt-fly",
+    "name": "Crucifixo invertido",
+    "aliases": ["Rear Delt Fly"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "lean-away-lateral-raise",
+    "name": "Elevação lateral inclinada",
+    "aliases": ["Lean Away Lateral Raise"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco firme, controle a subida e evite compensar com impulso."
+  },
+  {
+    "slug": "overhead-press",
+    "name": "Desenvolvimento militar",
+    "aliases": ["Overhead Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Suba a barra em linha reta, trave o abdômen e mantenha a postura firme."
+  },
+  {
+    "slug": "push-press",
+    "name": "Push press",
+    "aliases": ["Push Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Suba a barra em linha reta, trave o abdômen e mantenha a postura firme."
+  },
+  {
+    "slug": "behind-the-neck-press",
+    "name": "Desenvolvimento por trás da nuca",
+    "aliases": ["Behind the Neck Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Suba a barra em linha reta, trave o abdômen e mantenha a postura firme."
+  },
+  {
+    "slug": "z-press",
+    "name": "Z press",
+    "aliases": ["Z Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Suba a barra em linha reta, trave o abdômen e mantenha a postura firme."
+  },
+  {
+    "slug": "landmine-press",
+    "name": "Desenvolvimento landmine",
+    "aliases": ["Landmine Press"],
+    "muscleGroup": "shoulders",
+    "secondaryMuscles": ["triceps", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Suba a barra em linha reta, trave o abdômen e mantenha a postura firme."
+  },
+  {
+    "slug": "alternating-dumbbell-curl",
+    "name": "Rosca alternada",
+    "aliases": ["Alternating Dumbbell Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "hammer-curl",
+    "name": "Rosca martelo",
+    "aliases": ["Hammer Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "incline-dumbbell-curl",
+    "name": "Rosca inclinada com halteres",
+    "aliases": ["Incline Dumbbell Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "concentration-curl",
+    "name": "Rosca concentração",
+    "aliases": ["Concentration Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "cross-body-curl",
+    "name": "Rosca martelo cruzada",
+    "aliases": ["Cross Body Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "preacher-curl",
+    "name": "Rosca Scott",
+    "aliases": ["Preacher Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Controle a descida, evite jogar o corpo e finalize cada repetição com amplitude limpa."
+  },
+  {
+    "slug": "ez-bar-curl",
+    "name": "Rosca com barra EZ",
+    "aliases": ["EZ Bar Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "ez_bar",
+    "modality": "strength",
+    "instructions": "Mantenha os cotovelos estáveis, controle a descida e registre a melhor série."
+  },
+  {
+    "slug": "spider-curl",
+    "name": "Rosca spider",
+    "aliases": ["Spider Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "ez_bar",
+    "modality": "strength",
+    "instructions": "Mantenha os cotovelos estáveis, controle a descida e registre a melhor série."
+  },
+  {
+    "slug": "reverse-ez-curl",
+    "name": "Rosca inversa com barra EZ",
+    "aliases": ["Reverse EZ Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "ez_bar",
+    "modality": "strength",
+    "instructions": "Mantenha os cotovelos estáveis, controle a descida e registre a melhor série."
+  },
+  {
+    "slug": "cable-curl",
+    "name": "Rosca na polia",
+    "aliases": ["Cable Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "ez_bar",
+    "modality": "strength",
+    "instructions": "Mantenha os cotovelos estáveis, controle a descida e registre a melhor série."
+  },
+  {
+    "slug": "bayesian-curl",
+    "name": "Rosca bayesiana",
+    "aliases": ["Bayesian Curl"],
+    "muscleGroup": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "equipment": "ez_bar",
+    "modality": "strength",
+    "instructions": "Mantenha os cotovelos estáveis, controle a descida e registre a melhor série."
+  },
+  {
+    "slug": "cable-pushdown",
+    "name": "Tríceps na polia",
+    "aliases": ["Cable Pushdown"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Fixe os cotovelos, estenda com controle e evite compensar com o tronco."
+  },
+  {
+    "slug": "overhead-cable-extension",
+    "name": "Tríceps acima da cabeça na polia",
+    "aliases": ["Overhead Cable Extension"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Fixe os cotovelos, estenda com controle e evite compensar com o tronco."
+  },
+  {
+    "slug": "single-arm-pushdown",
+    "name": "Tríceps unilateral na polia",
+    "aliases": ["Single Arm Pushdown"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Fixe os cotovelos, estenda com controle e evite compensar com o tronco."
+  },
+  {
+    "slug": "rope-pushdown",
+    "name": "Tríceps corda",
+    "aliases": ["Rope Pushdown"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Fixe os cotovelos, estenda com controle e evite compensar com o tronco."
+  },
+  {
+    "slug": "cable-skull-crusher",
+    "name": "Tríceps testa na polia",
+    "aliases": ["Cable Skull Crusher"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Fixe os cotovelos, estenda com controle e evite compensar com o tronco."
+  },
+  {
+    "slug": "parallel-bar-dip",
+    "name": "Paralelas",
+    "aliases": ["Parallel Bar Dip"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Desça com controle, estabilize os ombros e suba sem perder a postura."
+  },
+  {
+    "slug": "bench-dip",
+    "name": "Mergulho no banco",
+    "aliases": ["Bench Dip"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Desça com controle, estabilize os ombros e suba sem perder a postura."
+  },
+  {
+    "slug": "close-grip-push-up",
+    "name": "Flexão fechada",
+    "aliases": ["Close Grip Push-Up"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Desça com controle, estabilize os ombros e suba sem perder a postura."
+  },
+  {
+    "slug": "ring-dip",
+    "name": "Mergulho nas argolas",
+    "aliases": ["Ring Dip"],
+    "muscleGroup": "triceps",
+    "secondaryMuscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "modality": "bodyweight",
+    "instructions": "Desça com controle, estabilize os ombros e suba sem perder a postura."
+  },
+  {
+    "slug": "back-squat",
+    "name": "Agachamento livre",
+    "aliases": ["Back Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "front-squat",
+    "name": "Agachamento frontal",
+    "aliases": ["Front Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "pause-squat",
+    "name": "Agachamento com pausa",
+    "aliases": ["Pause Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "high-bar-squat",
+    "name": "Agachamento high bar",
+    "aliases": ["High Bar Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "low-bar-squat",
+    "name": "Agachamento low bar",
+    "aliases": ["Low Bar Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "zercher-squat",
+    "name": "Agachamento Zercher",
+    "aliases": ["Zercher Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "core"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen firme, controle a descida e suba com os pés bem apoiados."
+  },
+  {
+    "slug": "leg-press",
+    "name": "Leg press",
+    "aliases": ["Leg Press"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a amplitude, empurre com o meio do pé e mantenha o quadril estável."
+  },
+  {
+    "slug": "hack-squat",
+    "name": "Hack squat",
+    "aliases": ["Hack Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a amplitude, empurre com o meio do pé e mantenha o quadril estável."
+  },
+  {
+    "slug": "leg-extension",
+    "name": "Cadeira extensora",
+    "aliases": ["Leg Extension"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a amplitude, empurre com o meio do pé e mantenha o quadril estável."
+  },
+  {
+    "slug": "belt-squat",
+    "name": "Belt squat",
+    "aliases": ["Belt Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a amplitude, empurre com o meio do pé e mantenha o quadril estável."
+  },
+  {
+    "slug": "pendulum-squat",
+    "name": "Agachamento pêndulo",
+    "aliases": ["Pendulum Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a amplitude, empurre com o meio do pé e mantenha o quadril estável."
+  },
+  {
+    "slug": "goblet-squat",
+    "name": "Agachamento goblet",
+    "aliases": ["Goblet Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "name": "Agachamento búlgaro",
+    "aliases": ["Bulgarian Split Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "walking-lunge",
+    "name": "Afundo andando",
+    "aliases": ["Walking Lunge"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "step-up",
+    "name": "Step-up",
+    "aliases": ["Step-Up"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "reverse-lunge",
+    "name": "Afundo reverso",
+    "aliases": ["Reverse Lunge"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "cyclist-squat",
+    "name": "Agachamento ciclista",
+    "aliases": ["Cyclist Squat"],
+    "muscleGroup": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Mantenha o tronco alto, desça com controle e finalize cada repetição sem perder o apoio."
+  },
+  {
+    "slug": "seated-leg-curl",
+    "name": "Cadeira flexora",
+    "aliases": ["Seated Leg Curl"],
+    "muscleGroup": "hamstrings",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a máquina, flexione com controle e evite perder tensão no final da série."
+  },
+  {
+    "slug": "lying-leg-curl",
+    "name": "Mesa flexora",
+    "aliases": ["Lying Leg Curl"],
+    "muscleGroup": "hamstrings",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a máquina, flexione com controle e evite perder tensão no final da série."
+  },
+  {
+    "slug": "glute-ham-raise",
+    "name": "Glute ham raise",
+    "aliases": ["Glute Ham Raise"],
+    "muscleGroup": "hamstrings",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a máquina, flexione com controle e evite perder tensão no final da série."
+  },
+  {
+    "slug": "nordic-curl",
+    "name": "Nórdico",
+    "aliases": ["Nordic Curl"],
+    "muscleGroup": "hamstrings",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Ajuste a máquina, flexione com controle e evite perder tensão no final da série."
+  },
+  {
+    "slug": "hip-thrust",
+    "name": "Hip thrust",
+    "aliases": ["Hip Thrust"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Trave o abdômen, finalize com contração forte do glúteo e mantenha o pescoço neutro."
+  },
+  {
+    "slug": "barbell-glute-bridge",
+    "name": "Ponte de glúteo com barra",
+    "aliases": ["Barbell Glute Bridge"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Trave o abdômen, finalize com contração forte do glúteo e mantenha o pescoço neutro."
+  },
+  {
+    "slug": "good-morning",
+    "name": "Good morning",
+    "aliases": ["Good Morning"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Trave o abdômen, finalize com contração forte do glúteo e mantenha o pescoço neutro."
+  },
+  {
+    "slug": "sumo-deadlift",
+    "name": "Terra sumô",
+    "aliases": ["Sumo Deadlift"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Trave o abdômen, finalize com contração forte do glúteo e mantenha o pescoço neutro."
+  },
+  {
+    "slug": "deficit-romanian-deadlift",
+    "name": "Terra romeno com déficit",
+    "aliases": ["Deficit Romanian Deadlift"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "barbell",
+    "modality": "strength",
+    "instructions": "Trave o abdômen, finalize com contração forte do glúteo e mantenha o pescoço neutro."
+  },
+  {
+    "slug": "band-hip-abduction",
+    "name": "Abdução de quadril com faixa",
+    "aliases": ["Band Hip Abduction"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "band",
+    "modality": "strength",
+    "instructions": "Mantenha a tensão na faixa, estabilize o quadril e finalize cada repetição com controle."
+  },
+  {
+    "slug": "cable-kickback",
+    "name": "Coice na polia",
+    "aliases": ["Cable Kickback"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "band",
+    "modality": "strength",
+    "instructions": "Mantenha a tensão na faixa, estabilize o quadril e finalize cada repetição com controle."
+  },
+  {
+    "slug": "frog-pump",
+    "name": "Frog pump",
+    "aliases": ["Frog Pump"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "band",
+    "modality": "strength",
+    "instructions": "Mantenha a tensão na faixa, estabilize o quadril e finalize cada repetição com controle."
+  },
+  {
+    "slug": "banded-glute-bridge",
+    "name": "Ponte com faixa",
+    "aliases": ["Banded Glute Bridge"],
+    "muscleGroup": "glutes",
+    "secondaryMuscles": ["hamstrings"],
+    "equipment": "band",
+    "modality": "strength",
+    "instructions": "Mantenha a tensão na faixa, estabilize o quadril e finalize cada repetição com controle."
+  },
+  {
+    "slug": "standing-calf-raise",
+    "name": "Panturrilha em pé",
+    "aliases": ["Standing Calf Raise"],
+    "muscleGroup": "calves",
+    "secondaryMuscles": [],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Suba totalmente, segure a contração por um instante e desça com controle."
+  },
+  {
+    "slug": "seated-calf-raise",
+    "name": "Panturrilha sentada",
+    "aliases": ["Seated Calf Raise"],
+    "muscleGroup": "calves",
+    "secondaryMuscles": [],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Suba totalmente, segure a contração por um instante e desça com controle."
+  },
+  {
+    "slug": "leg-press-calf-raise",
+    "name": "Panturrilha no leg press",
+    "aliases": ["Leg Press Calf Raise"],
+    "muscleGroup": "calves",
+    "secondaryMuscles": [],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Suba totalmente, segure a contração por um instante e desça com controle."
+  },
+  {
+    "slug": "single-leg-calf-raise",
+    "name": "Panturrilha unilateral",
+    "aliases": ["Single Leg Calf Raise"],
+    "muscleGroup": "calves",
+    "secondaryMuscles": [],
+    "equipment": "machine",
+    "modality": "strength",
+    "instructions": "Suba totalmente, segure a contração por um instante e desça com controle."
+  },
+  {
+    "slug": "plank",
+    "name": "Prancha",
+    "aliases": ["Plank"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "side-plank",
+    "name": "Prancha lateral",
+    "aliases": ["Side Plank"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "hollow-hold",
+    "name": "Hollow hold",
+    "aliases": ["Hollow Hold"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "dead-bug",
+    "name": "Dead bug",
+    "aliases": ["Dead Bug"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "bird-dog",
+    "name": "Bird dog",
+    "aliases": ["Bird Dog"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "v-up-hold",
+    "name": "V-up isométrico",
+    "aliases": ["V-Up Hold"],
+    "muscleGroup": "core",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "modality": "timed",
+    "instructions": "Trave o abdômen, respire de forma controlada e mantenha a postura estável."
+  },
+  {
+    "slug": "cable-crunch",
+    "name": "Crunch na polia",
+    "aliases": ["Cable Crunch"],
+    "muscleGroup": "core",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen ativo, controle o retorno e evite puxar com os braços."
+  },
+  {
+    "slug": "pallof-press",
+    "name": "Pallof press",
+    "aliases": ["Pallof Press"],
+    "muscleGroup": "core",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen ativo, controle o retorno e evite puxar com os braços."
+  },
+  {
+    "slug": "wood-chop",
+    "name": "Wood chop",
+    "aliases": ["Wood Chop"],
+    "muscleGroup": "core",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen ativo, controle o retorno e evite puxar com os braços."
+  },
+  {
+    "slug": "hanging-knee-raise",
+    "name": "Elevação de joelhos na barra",
+    "aliases": ["Hanging Knee Raise"],
+    "muscleGroup": "core",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen ativo, controle o retorno e evite puxar com os braços."
+  },
+  {
+    "slug": "ab-wheel-rollout",
+    "name": "Ab wheel rollout",
+    "aliases": ["Ab Wheel Rollout"],
+    "muscleGroup": "core",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cable",
+    "modality": "strength",
+    "instructions": "Mantenha o abdômen ativo, controle o retorno e evite puxar com os braços."
+  },
+  {
+    "slug": "wrist-curl",
+    "name": "Rosca de punho",
+    "aliases": ["Wrist Curl"],
+    "muscleGroup": "forearms",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Movimente apenas os punhos, mantenha o antebraço apoiado e controle a descida."
+  },
+  {
+    "slug": "reverse-wrist-curl",
+    "name": "Rosca inversa de punho",
+    "aliases": ["Reverse Wrist Curl"],
+    "muscleGroup": "forearms",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Movimente apenas os punhos, mantenha o antebraço apoiado e controle a descida."
+  },
+  {
+    "slug": "farmer-carry",
+    "name": "Caminhada do fazendeiro",
+    "aliases": ["Farmer Carry"],
+    "muscleGroup": "forearms",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Movimente apenas os punhos, mantenha o antebraço apoiado e controle a descida."
+  },
+  {
+    "slug": "plate-pinch-hold",
+    "name": "Pinça com anilhas",
+    "aliases": ["Plate Pinch Hold"],
+    "muscleGroup": "forearms",
+    "secondaryMuscles": ["biceps"],
+    "equipment": "dumbbell",
+    "modality": "strength",
+    "instructions": "Movimente apenas os punhos, mantenha o antebraço apoiado e controle a descida."
+  },
+  {
+    "slug": "kettlebell-swing",
+    "name": "Swing com kettlebell",
+    "aliases": ["Kettlebell Swing"],
+    "muscleGroup": "full_body",
+    "secondaryMuscles": ["glutes", "shoulders", "core"],
+    "equipment": "kettlebell",
+    "modality": "strength",
+    "instructions": "Use o quadril para gerar impulso, mantenha o tronco firme e controle o ritmo."
+  },
+  {
+    "slug": "kettlebell-clean",
+    "name": "Clean com kettlebell",
+    "aliases": ["Kettlebell Clean"],
+    "muscleGroup": "full_body",
+    "secondaryMuscles": ["glutes", "shoulders", "core"],
+    "equipment": "kettlebell",
+    "modality": "strength",
+    "instructions": "Use o quadril para gerar impulso, mantenha o tronco firme e controle o ritmo."
+  },
+  {
+    "slug": "kettlebell-snatch",
+    "name": "Snatch com kettlebell",
+    "aliases": ["Kettlebell Snatch"],
+    "muscleGroup": "full_body",
+    "secondaryMuscles": ["glutes", "shoulders", "core"],
+    "equipment": "kettlebell",
+    "modality": "strength",
+    "instructions": "Use o quadril para gerar impulso, mantenha o tronco firme e controle o ritmo."
+  },
+  {
+    "slug": "turkish-get-up",
+    "name": "Levantamento turco",
+    "aliases": ["Turkish Get-Up"],
+    "muscleGroup": "full_body",
+    "secondaryMuscles": ["glutes", "shoulders", "core"],
+    "equipment": "kettlebell",
+    "modality": "strength",
+    "instructions": "Use o quadril para gerar impulso, mantenha o tronco firme e controle o ritmo."
+  },
+  {
+    "slug": "goblet-clean",
+    "name": "Clean goblet",
+    "aliases": ["Goblet Clean"],
+    "muscleGroup": "full_body",
+    "secondaryMuscles": ["glutes", "shoulders", "core"],
+    "equipment": "kettlebell",
+    "modality": "strength",
+    "instructions": "Use o quadril para gerar impulso, mantenha o tronco firme e controle o ritmo."
+  },
+  {
+    "slug": "treadmill-run",
+    "name": "Corrida na esteira",
+    "aliases": ["Treadmill Run"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "indoor-bike",
+    "name": "Bike indoor",
+    "aliases": ["Indoor Bike"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "rowing-machine",
+    "name": "Remo ergômetro",
+    "aliases": ["Rowing Machine"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "elliptical",
+    "name": "Elíptico",
+    "aliases": ["Elliptical"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "stair-climber",
+    "name": "Escada",
+    "aliases": ["Stair Climber"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "assault-bike",
+    "name": "Assault bike",
+    "aliases": ["Assault Bike"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "cardio_machine",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "outdoor-run",
+    "name": "Corrida ao ar livre",
+    "aliases": ["Outdoor Run"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "bodyweight",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "walk",
+    "name": "Caminhada",
+    "aliases": ["Walk"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "bodyweight",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "hike",
+    "name": "Trilha",
+    "aliases": ["Hike"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "bodyweight",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  },
+  {
+    "slug": "jump-rope",
+    "name": "Pular corda",
+    "aliases": ["Jump Rope"],
+    "muscleGroup": "cardio",
+    "secondaryMuscles": ["full_body"],
+    "equipment": "bodyweight",
+    "modality": "distance",
+    "instructions": "Mantenha um ritmo sustentável, postura alinhada e registre o tempo ou a distância."
+  }
+]

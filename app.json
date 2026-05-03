@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "Frogs Workout Tracker",
+    "slug": "frog-workout-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app_icon_v1.png",
+    "scheme": "frogworkouttracker",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "buildNumber": "1",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.frogworkouttracker.app"
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.frogworkouttracker.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F1C2C",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#0F1C2C",
+          "dark": {
+            "backgroundColor": "#0F1C2C"
+          }
+        }
+      ],
+      "expo-sqlite",
+      "expo-notifications",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O Frogs precisa acessar sua galeria para anexar fotos e videos aos treinos.",
+          "cameraPermission": "O Frogs precisa acessar sua camera para registrar fotos do treino."
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}

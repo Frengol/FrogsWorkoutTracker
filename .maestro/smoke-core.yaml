@@ -1,0 +1,14 @@
+appId: com.frogworkouttracker.app
+---
+- clearState
+- launchApp
+- assertVisible:
+    id: screen-onboarding
+- tapOn:
+    id: btn-onboarding-enter
+- assertVisible:
+    id: screen-home
+- tapOn:
+    id: btn-home-empty-workout
+- assertVisible:
+    id: screen-workout-live
